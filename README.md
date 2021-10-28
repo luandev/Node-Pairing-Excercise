@@ -9,9 +9,11 @@ The character `.` represents a space.
 Example:
 
 ```
-*...
-..*.
-....
+[
+  [*...],
+  [..*.],
+  [....]
+]
 ```
 
 Your task is to write a program to accept the input and product a hint field version of the map with the same dimensions, were a square eithercontains a mine, `*`, or the number of adjacent mines, `2`.
@@ -19,9 +21,11 @@ Your task is to write a program to accept the input and product a hint field ver
 Example:
 
 ```
-*211
-12*1
-0111
+[
+  [*211],
+  [12*1],
+  [0111]
+]
 ```
 
 ### Getting started
