@@ -16,7 +16,7 @@ Example:
 ]
 ```
 
-Your task is to write a program to accept the input and product a hint field version of the map with the same dimensions, were a square eithercontains a mine, `*`, or the number of adjacent mines, `2`.
+Your task is to write a program to accept the input and product a hint field version of the map with the same dimensions, where a square either contains a mine, `*`, or the number of adjacent mines, `2`.
 
 Example:
 
@@ -34,4 +34,4 @@ Pull this code and run `npm install` from the root of the project.
 
 ### Technical requirements
 
-Node 14 or higher
+Node v14 or higher
