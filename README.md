@@ -31,3 +31,7 @@ Example:
 ### Getting started
 
 Pull this code and run `npm install` from the root of the project.
+
+### Tecnical requirements
+
+Node 14 or higher
