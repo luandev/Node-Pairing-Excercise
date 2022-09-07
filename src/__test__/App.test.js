@@ -14,6 +14,6 @@ describe('sample describe', () => {
       ["0", "1", "1", "1"],
     ];
 
-    expect(map(testInput).length).toEqual(expectedOutput.length);
+    expect(map(testInput)).toEqual(expectedOutput);
   });
 });
